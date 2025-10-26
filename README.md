@@ -8,6 +8,9 @@
 - **Bar:** Polybar
 - **Window Manager:** Pop Shell
 - **GTK Theme:** Graphite - Rimless
+- **Icons:** Tela Circle Black
+- **Cursor:** Material Dark Cursor
+- **Fonts:** JetBrain Mono Nerd Font 
 
 ### Preview
 
