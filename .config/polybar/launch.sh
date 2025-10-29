@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# ------------------------------------------------------------------
+# Script to run the polybar
+# ------------------------------------------------------------------
+
 # Killing all the polybar instanaces
 killall -q polybar
 
