@@ -1,6 +1,6 @@
-## Dotfiles
+# Dotfiles
 
-### Basic Info
+## Basic Info
 
 - **Distro:** Pop OS
 - **Version:** 22.04 LTS
@@ -10,18 +10,16 @@
 - **GTK Theme:** Graphite - Rimless
 - **Icons:** Tela Circle Black
 - **Cursor:** Material Dark Cursor
-- **Fonts:** JetBrain Mono Nerd Font 
+- **Fonts:** JetBrain Mono Nerd Font
 
-### Preview
+## Preview
 
 ![Preview](./images/Screenshot%20from%202025-10-27%2001-14-24.png)
 
-
-### Bar preview
+## Bar preview
 
 ![Polybar Preview](./images/Screenshot%20from%202025-10-27%2001-18-48.png)
 
-
-### Tweak and Extension Manger 
+## Tweak and Extension Manger
 
 ![Tweaks and Extension Manager previews](./images/Screenshot%20from%202025-10-27%2001-33-37.png)
