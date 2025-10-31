@@ -20,6 +20,11 @@
 
 ![Polybar Preview](./images/Screenshot%20from%202025-10-27%2001-18-48.png)
 
+## Alacritty / terminal
+
+![Alacritty](./images/Screenshot%20from%202025-10-31%2019-51-01.png)
+
 ## Tweak and Extension Manger
 
 ![Tweaks and Extension Manager previews](./images/Screenshot%20from%202025-10-27%2001-33-37.png)
+
