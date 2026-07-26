@@ -3,11 +3,10 @@ My dotfiles repo...
 
 ## Preview
 
-<video autoplay loop controls> 
-<source src="https://github.com/thetarun-dev/dotfiles/blob/main/preview.mp4" type="video/mp4">
+<video autoplay loopalt="please watch the preview.mp4"> 
+<source src="preview.mp4" type="video/mp4">
 </video>
 <br>
-
 
 
 ## Info
