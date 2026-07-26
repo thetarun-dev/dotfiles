@@ -1,12 +1,11 @@
 
 My dotfiles repo...
 
-### Preview
+## Preview
 
+<video src= "./preview.mp4" loop ></video>
 
-<video src= "./preview.mp4" loop/>
-
-### Info
+## Info
 
 **Disto: Fedora - Gnome**  
 **Bar: Polybar**
@@ -15,6 +14,6 @@ My dotfiles repo...
 ![alt text](./image/screenshot.png)
 
 
-### Extensions 
+## Extensions 
 
 ![](./image/extension.png)
