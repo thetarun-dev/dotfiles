@@ -3,7 +3,7 @@ My dotfiles repo...
 
 ## Preview
 
-<video width="500" height="300" autoplay loop muted> 
+<video width="500px" height="300px" autoplay loop controls> 
 <source src="preview.mp4" type="video/mp4">
 </video>
 <br>
