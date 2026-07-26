@@ -3,22 +3,9 @@ My dotfiles repo...
 
 ## Preview
 
-<div 
-    style="display:flex; justify-content: center;align-item:center"
->
-<video 
-    autoplay
-    loop
-    controls
-    style="margin: 5px; padding: 5px; width: 90%"
->
-    <source 
-        src="preview.mp4" 
-        type="video/mp4"
-    >
-    </source>
-</video> 
-</div>
+<video width="320" height="240" controls>
+  <source src="preview.mp4" type="video/mp4">
+</video>
 
 ## Info
 
