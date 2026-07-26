@@ -4,7 +4,7 @@ My dotfiles repo...
 ### Preview
 
 
-<!-- <video src= "./preview.mp4" loop/> -->
+<video src= "./preview.mp4" loop/>
 
 ### Info
 
