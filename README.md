@@ -1,18 +1,16 @@
-<p
-  style="display: flex; justify-content: center; align-item: center; font-style: bold; font-size: 30px; padding: 10px"
->
-My dotfiles repo...
-</p>
-<br>
+# Dotfiles
+
+dotfiles repo
 
 ## Preview
-
-![Watch the video - preview.mp4](https://github.com/thetarun-dev/dotfiles/blob/main/preview.mp4)
+  
+![see image/screenshot.png](./image/preview1.png)  
   
 
-## Info
+![Watch the video - preview.mp4](https://github.com/thetarun-dev/dotfiles/blob/main/preview.mp4)
 
-![see image/screenshot.png](./image/preview1.png)
+
+## Info
 
 **Disto: Fedora - Gnome**  
 **Bar: Polybar**  
