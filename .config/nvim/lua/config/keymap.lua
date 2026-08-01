@@ -24,10 +24,10 @@ vim.keymap.set('n', '<C-h>', ':wincmd h<CR>', opts)
 vim.keymap.set('n', '<C-l>', ':wincmd l<CR>', opts)
 
 -- Resize with arrows
-vim.keymap.set('n', '<Up>', ':resize -2<CR>', opts)
-vim.keymap.set('n', '<Down>', ':resize +2<CR>', opts)
-vim.keymap.set('n', '<Left>', ':vertical resize -2<CR>', opts)
-vim.keymap.set('n', '<Right>', ':vertical resize +2<CR>', opts)
+vim.keymap.set('n', '<S-Up>', ':resize -2<CR>', opts)
+vim.keymap.set('n', '<S-Down>', ':resize +2<CR>', opts)
+vim.keymap.set('n', '<S-Left>', ':vertical resize -2<CR>', opts)
+vim.keymap.set('n', '<S-Right>', ':vertical resize +2<CR>', opts)
 
 -- Buffers
 vim.keymap.set('n', '<Tab>', ':bnext<CR>', opts)
