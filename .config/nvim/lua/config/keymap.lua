@@ -37,5 +37,6 @@ vim.keymap.set('n', '<S-Tab>', ':bprevious<CR>', opts)
 vim.keymap.set('n', '<leader>v', '<C-w>v', opts) -- split window vertically
 vim.keymap.set('n', '<leader>h', '<C-w>s', opts) -- split window horizontally
 
-
+-- Leader + h to hide the highlight word
+vim.keymap.set('n', '<leader>sh', ':nohlsearch<CR>')
 
