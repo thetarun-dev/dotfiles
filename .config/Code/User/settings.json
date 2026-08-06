@@ -1,7 +1,10 @@
 {
     "workbench.startupEditor": "none",
+
     "window.menuBarVisibility": "compact",
     "workbench.activityBar.location": "top",
+    "workbench.sideBar.location": "right",
+    "window.commandCenter": false,
 
     // Colorscheme settings
     "workbench.colorTheme": "Wal Bordered",
@@ -11,5 +14,9 @@
     "editor.fontFamily": "JetBrainsMono Nerd Font Mono",
     "editor.fontLigatures": true,
     "editor.fontSize": 14,
+    
+
+    // Vscode Pet theme
+    "vscode-pets.theme": "forest",
     
 }
