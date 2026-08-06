@@ -1,0 +1,15 @@
+{
+    "workbench.startupEditor": "none",
+    "window.menuBarVisibility": "compact",
+    "workbench.activityBar.location": "top",
+
+    // Colorscheme settings
+    "workbench.colorTheme": "Wal Bordered",
+    "walTheme.autoUpdate": true,
+
+    // Fonts
+    "editor.fontFamily": "JetBrainsMono Nerd Font Mono",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    
+}
