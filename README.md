@@ -5,10 +5,8 @@ dotfiles repo
 ## Preview
   
 ![see image/screenshot.png](./image/preview1.png)  
-  
-https://github.com/thetarun-dev/dotfiles/blob/main/preview.mp4
 
-![Watch the video - preview.mp4](https://github.com/thetarun-dev/dotfiles/blob/main/preview.mp4)
+[Watch the video - preview.mp4](https://github.com/thetarun-dev/dotfiles/blob/main/preview.mp4)
 
 
 ## Info
