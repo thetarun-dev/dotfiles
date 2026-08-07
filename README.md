@@ -16,6 +16,8 @@ dotfiles repo
   
 ![see assets/image folder](./assets/image/vscode.png)  
 
+![see assets/image folder](./assets/image/vscode2.png)  
+
   
 ![see assets/video folder](./assets/videos/preview.mp4)  
 
