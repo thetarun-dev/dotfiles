@@ -6,6 +6,10 @@ dotfiles repo
   
 ![see assets/image folder](./assets/image/preview1.png)  
 
+![see assets/image folder](./assets/image/nvim.png)  
+
+![see assets/image folder](./assets/image/vscode.png)  
+
 ![see assets/video folder](./assets/videos/preview.mp4)  
 
 ## Info
