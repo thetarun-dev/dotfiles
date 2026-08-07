@@ -4,10 +4,9 @@ dotfiles repo
 
 ## Preview
   
-![see image/screenshot.png](./image/preview1.png)  
+![see assets/image folder](./assets/image/preview1.png)  
 
-[Watch the video - preview.mp4](https://github.com/thetarun-dev/dotfiles/blob/main/preview.mp4)
-
+![see assets/video folder](./assets/videos/preview.mp4)  
 
 ## Info
 
@@ -23,3 +22,5 @@ dotfiles repo
 
 - **Just perfection** = to disable/hide panel and to make some changes in default gnome shell
 - **User theme**= To change the theme
+
+
