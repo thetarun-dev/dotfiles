@@ -1,6 +1,7 @@
 # Dotfiles
 
-dotfiles repo
+Welcome to my dotfile repo, where all of _my configuration files_ of various applications are stored.  
+Currently I am using the **Fedora** - A GNU linux based distro as my workstation
 
 ## Preview
 
