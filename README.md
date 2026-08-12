@@ -31,7 +31,7 @@ Currently I am using the **Fedora** - A GNU linux based distro as my workstation
 
 ## Extensions 
 
-![see image/extension.png](./asset/image/extension.png)
+![see image/extension.png](./assets/image/extension.png)
 
 - **Just perfection** = to disable/hide panel and to make some changes in default gnome shell
 - **User theme**= To change the theme
