@@ -4,6 +4,8 @@ Welcome to my dotfile repo, which is a collection of the all the configuration f
   
 Currently I am using the **Fedora** - A GNU linux based distro as my workstation with [pywal16](https://github.com/eylles/pywal16) (for generating the colorscheme from the wallpaper) and using the [polybar](https://github.com/polybar/polybar) for the bar/panel instead of the fedora default panel.
 
+I am also using gnome tweaks and some extensions to change the some behaviour of the gnome. such as to change the notification pop position to Bottom left
+
 ## Preview
 
 **Full preview of Desktop**  
