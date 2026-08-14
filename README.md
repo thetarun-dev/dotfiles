@@ -25,10 +25,10 @@ Currently I am using the **Fedora** - A GNU linux based distro as my workstation
 
 ## Info
 
-**Disto: Fedora - Gnome**  
-**Bar: [polybar](https://github.com/polybar/polybar)**
-**Font: JetBrains Mono Nerd Font**  
-**Colorscheme: [pywal16](https://github.com/eylles/pywal16)(Generating Colorscheme using the pywal16)**
+- **Disto: Fedora - Gnome**  
+- **Bar: [polybar](https://github.com/polybar/polybar)**  
+- **Font: JetBrains Mono Nerd Font**  
+- **Colorscheme: [pywal16](https://github.com/eylles/pywal16)(Generating Colorscheme using the pywal16)**
 
 ## Extensions 
 
