@@ -1,7 +1,9 @@
 # Dotfiles
 
-Welcome to my dotfile repo, where all of _my configuration files_ of various applications are stored.  
-Currently I am using the **Fedora** - A GNU linux based distro as my workstation
+Welcome to my dotfile repo, which is a collection of the all the configuration files of an applications, WM, linux and some scripts.. 
+  
+Currently I am using the **Fedora** - A GNU linux based distro as my workstation with [pywal16](https://github.com/eylles/pywal16) (for generating the colorscheme from the wallpaper) and
+using the polybar for the bar/panel instead of the fedora default panel.
 
 ## Preview
 
