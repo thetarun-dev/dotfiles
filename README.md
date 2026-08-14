@@ -31,6 +31,7 @@ I am also using gnome tweaks and some extensions to change the some behaviour of
 - **Bar: [polybar](https://github.com/polybar/polybar)**  
 - **Font: JetBrains Mono Nerd Font**  
 - **Colorscheme: [pywal16](https://github.com/eylles/pywal16)(Generating Colorscheme using the pywal16)**
+- Wallpapers: [walls](https://github.com/thetarun-dev/walls)
 
 ## Extensions 
 
