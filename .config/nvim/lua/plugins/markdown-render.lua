@@ -35,6 +35,7 @@ return {
                 highlight = 'RenderMarkdownLink',
                 -- Applies to WikiLink elements.
                 wiki = {
+                    enabled = true,
                     icon = '󱗖 ',
                     body = function()
                         return nil
