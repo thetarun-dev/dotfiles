@@ -24,9 +24,6 @@
     "editor.cursorStyle": "block",
     "editor.cursorBlinking": "solid",
     "editor.stickyScroll.enabled": false,
-
-    // Colorscheme settings
-    "workbench.colorTheme": "Wal Bordered",
     "walTheme.autoUpdate": true,
 
     // Fonts
@@ -39,5 +36,6 @@
     
     // enabling the Material Icon theme
     "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Wal Bordered",
 
 }
