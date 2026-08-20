@@ -10,7 +10,7 @@ I am also using gnome tweaks and some extensions to change the some behaviour of
 
 **Full preview of Desktop**  
   
-![see assets/image folder](./assets/image/preview1.png)  
+![see assets/image folder](./assets/image/preview2.png)  
 
 **Neovim**  
   
