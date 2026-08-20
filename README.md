@@ -12,6 +12,11 @@ I am also using gnome tweaks and some extensions to change the some behaviour of
   
 ![see assets/image folder](./assets/image/preview2.png)  
 
+**Polybar**  
+  
+![see assets/image folder](./assets/image/polybar.png)  
+
+
 **Neovim**  
   
 ![see assets/image folder](./assets/image/nvim.png)  
